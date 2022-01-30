@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"gke","Source":"./gke","Dir":"gke"},{"Key":"k8s","Source":"./k8s","Dir":"k8s"},{"Key":"compute","Source":"./compute","Dir":"compute"}]}
